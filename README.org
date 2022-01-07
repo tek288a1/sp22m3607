@@ -1,0 +1,22 @@
+#+TITLE: Spring 2022 Math 3345 (Fundamentals of Higher Mathematics)
+#+AUTHOR: Tae Eun Kim
+#+OPTIONS: toc:nil
+
+* Instructor Contact Information
+ - Tae Eun Kim (Mr. Kim, Dr. Kim, Tae are all fine.)
+ - [[mailto:kim.3562@osu.edu][kim.3562@osu.edu]] (Do NOT use =buckeyemail.osu.edu= address as that inbox is unattended.)
+ - Office: Math Tower 349
+ - Office hours: MW 4:30PM -- 6:00PM
+
+* Lectures
+
+As we go on, I will fill the table below with links to recorded lectures and corresponding lecture slides, both blank and annotated.
+
+| Week | Date             | Lecture            | Slides            | Notes |
+|------+------------------+--------------------+-------------------+-------|
+|    1 | <2021-08-25 Wed> | [[https://youtu.be/PlyUUcq_6sI][Lec01: UF and ROFF]] | [[file:lec01-UF-and-ROFF.pdf][blank]] / [[file:lec01-UF-and-ROFF.notes.pdf][annotated]] |       |
+|      | <2021-08-27 Fri> | [[https://youtu.be/cjulyIl8b50][Lec02: WIAL]]        | [[file:lec02-WIAL.pdf][blank]] / [[file:lec02-WIAL.notes.pdf][annotated]] |       |
+|------+------------------+--------------------+-------------------+-------|
+|    2 | <2021-08-30 Mon> | [[https://youtu.be/4gp-tZJDOFg][Lec03: LL]]          | [[file:lec03-LL.pdf][blank]] / [[file:lec03-LL.notes.pdf][annotated]] |       |
+|      | <2021-09-01 Wed> | [[https://youtu.be/GjeQIW6jmw0][Lec04: IF]]          | [[file:lec04-IF.pdf][blank]] / [[file:lec04-IF.notes.pdf][annotated]] |       |
+|      | <2021-09-03 Fri> | [[https://youtu.be/LefVE1I1JUY][Lec05: ULTDA]]       | [[file:lec05-ULTDA.pdf][blank]] / [[file:lec05-ULTDA.notes.pdf][annotated]] |       |
