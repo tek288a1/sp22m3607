@@ -1,14 +1,16 @@
-#+TITLE: Spring 2022 Math 3345 (Fundamentals of Higher Mathematics)
+#+TITLE: Spring 2022 Math 3607 (Beginning Scientific Computing)
 #+AUTHOR: Tae Eun Kim
+#+STARTUP: indent
 #+OPTIONS: toc:nil
 
-* Instructor Contact Information
+* Spring 2022 Math 3607 (Beginning Scientific Computing)
+** Instructor Contact Information
  - Tae Eun Kim (Mr. Kim, Dr. Kim, Tae are all fine.)
  - [[mailto:kim.3562@osu.edu][kim.3562@osu.edu]] (Do NOT use =buckeyemail.osu.edu= address as that inbox is unattended.)
  - Office: Math Tower 349
  - Office hours: MW 4:30PM -- 6:00PM
 
-* Lectures
+** Lectures
 
 As we go on, I will fill the table below with links to recorded lectures and corresponding lecture slides, both blank and annotated.
 
